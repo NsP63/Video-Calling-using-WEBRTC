@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m214.5,183.5" fill="#1199ff" id="svg_10" opacity="0.5" stroke="#1199ff" stroke-width="5"/>
+  <rect fill="#1199ff" height="0" id="svg_11" opacity="0.5" stroke="#1199ff" stroke-width="5" width="0" x="0.5" y="0.5"/>
+  <rect fill="#1199ff" height="0" id="svg_12" opacity="0.5" stroke="#1199ff" stroke-width="5" width="0" x="3.5" y="2.5"/>
+  <rect fill="#1199ff" height="0" id="svg_13" opacity="0.5" stroke="#1199ff" stroke-width="5" width="0" x="81.5" y="86.5"/>
+  <rect fill="#1199ff" height="0" id="svg_14" opacity="0.5" stroke="#1199ff" stroke-width="5" width="0" x="117.5" y="85.5"/>
+  <rect fill="#1199ff" height="0" id="svg_15" opacity="0.5" stroke="#1199ff" stroke-width="5" width="0" x="326.5" y="240.5"/>
+  <rect fill="#1199ff" height="0" id="svg_16" opacity="0.5" stroke="#1199ff" stroke-width="5" width="0" x="326.5" y="240.5"/>
+  <rect fill="#1199ff" height="0" id="svg_17" opacity="0.5" stroke="#1199ff" stroke-width="5" width="0" x="326.5" y="240.5"/>
+  <rect fill="#1199ff" height="0" id="svg_18" opacity="0.5" stroke="#1199ff" stroke-width="5" width="0" x="201.5" y="145.5"/>
+  <rect fill="#1199ff" height="0" id="svg_19" opacity="0.5" stroke="#1199ff" stroke-width="5" width="0" x="1.5" y="1.5"/>
+  <rect fill="#1199ff" height="0" id="svg_20" opacity="0.5" stroke="#1199ff" stroke-width="5" width="0" x="121.5" y="173.5"/>
+  <ellipse cx="111.5" cy="168.5" fill="#1199ff" id="svg_21" opacity="0.5" rx="0" ry="0" stroke="#1199ff" stroke-width="5"/>
+  <ellipse cx="91.5" cy="103.5" fill="#1199ff" id="svg_22" opacity="0.5" rx="0" ry="0" stroke="#1199ff" stroke-width="5"/>
+  <ellipse cx="91.5" cy="103.5" fill="#1199ff" id="svg_23" opacity="0.5" rx="0" ry="0" stroke="#1199ff" stroke-width="5"/>
+  <ellipse cx="91.5" cy="103.5" fill="#1199ff" id="svg_24" opacity="0.5" rx="0" ry="0" stroke="#1199ff" stroke-width="5"/>
+  <line fill="none" id="svg_28" opacity="0.5" stroke="#1199ff" stroke-width="5" x1="190.5" x2="190.5" y1="175.5" y2="175.5"/>
+  <line fill="none" id="svg_29" opacity="0.5" stroke="#1199ff" stroke-width="5" x1="250.5" x2="250.5" y1="179.5" y2="179.5"/>
+  <line fill="none" id="svg_30" opacity="0.5" stroke="#1199ff" stroke-width="5" x1="335.5" x2="335.5" y1="209.5" y2="209.5"/>
+  <polyline fill="none" id="svg_31" opacity="0.5" points="230.5,150.5 " stroke="#1199ff" stroke-linecap="round" stroke-width="5"/>
+  <path d="m535.5,363.5" fill="#FF0000" id="svg_37" opacity="0.5" stroke="#000000" stroke-width="5"/>
+  <path d="m87.791534,559.034054l0,-633.998969l470.000545,633.998969l-470.000545,0z" fill="#45d4ff" id="svg_25" stroke="#45d4ff" stroke-width="5" transform="rotate(-89.9939 322.792 242.035)"/>
+ </g>
+</svg>
